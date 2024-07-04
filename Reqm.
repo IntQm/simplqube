@@ -1,1 +1,29 @@
+Developing a Generalized accouting software for fintech
+
+Requirements 
+
+---General Requirements---
+
+1. Software should be simple to use
+2. Software should have aesthetic Interface
+3. Software should be upgradable
+4. Structure should be modular
+5. Compatible with other Tools used in Finance
+6. Able to be hosted and used as SaaS
+7. should contain all related features and functions used in finance 
+8. Cost efficient
+9. Security Mechanism
+10.Free trial System
+
+---User Side---
+
+    Robust reporting tools
+    Ability to customize reports
+    Unlimited invoicing
+    Tools to assist with automations
+    Inventory tracking in some of the plans
+    Bill management and receipt capture
+    Calculate sales tax automatically
+    Accept credit cards and bank orders
+    Track projects, including labor costs, expenses, and payroll on some plans
 
